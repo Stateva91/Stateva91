@@ -2,6 +2,13 @@
 
 - 🌱 I’m currently learning  JavaScript, QA Basics, and JAVA.
 
+
+  ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/Stateva91/Stateva91/assets/114188863/e0bbe234-844a-4188-a0b4-0c7715648aad)
+
+
+
+
+
 ### SKILLS:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vscode,postman,idea,mysql)](https://skillicons.dev)
